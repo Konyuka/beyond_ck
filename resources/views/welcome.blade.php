@@ -49,9 +49,7 @@
                                 </div>
 
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">
-                                    More Changes
-                                    4k 120 ck BCK Documentation
-
+                                 
                                     check this
                                 </h2>
 
